@@ -15,7 +15,7 @@
   <br/>
 <b>🛠️ Tecnologias & Ferramentas: </b>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,git,github,js,nodejs,react,figma,notion,ts,aws,java,nextjs,tailwind,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,git,github,js,nodejs,react,figma,notion,ts,aws,angular,nextjs,tailwind,mysql)](https://skillicons.dev)
 
 
 
