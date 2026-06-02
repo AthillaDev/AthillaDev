@@ -26,14 +26,3 @@
 <a href="www.linkedin.com/in/athilla-cruz-pereira-771564a0">[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)</a>
 <a href="athillacruzp@hotmail.com">[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)</a>
 <br>
-<br>
-<br>
-</a>
-<a href="https://github.com/anuraghazra/Top Langs">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AthillaDev&langs_count=8" />
-</a>
-<a href="https://github.com/Anurag's GitHub stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AthillaDev&show_icons=true&theme=transparent" />
-</a>
-
-
